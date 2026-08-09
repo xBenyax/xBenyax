@@ -7,14 +7,16 @@
 [![YouTube](https://img.shields.io/badge/YouTube-Canal-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@xBenyax2208)
 [![TikTok](https://img.shields.io/badge/TikTok-Perfil-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@benyix123)
 
-## Sobre mi
+## 👨‍💻 Sobre mí
 
-- ⭐ Github Star ⭐ 
-- 📲 Mobile developer
-- 🎥 Te enseño a programar apps en [Youtube](https://youtube.com/aristidevs?sub_confirmation=1) (+150k subs)
-- ✏️ Y por escrito en [CursoKotlin](https://cursokotlin.com)
-- 📗 Autor del libro [Iniciación a Android en Kotlin. Casos prácticos](https://www.paraninfo.es/catalogo/9788428340922/iniciacion-a-android-en-kotlin--casos-practicos)
-- 🧑‍🏫 Creador de [AppCademy](https://appcademy.dev)
+- 🎓 Estudiante de Ingeniería de Sistemas en la Universidad Salesiana de Bolivia. 
+- 💻 Me interesa el desarrollo de software y aprender nuevas tecnologías.
+- 🐍 Actualmente estoy trabajando con Python y desarrollé proyectos con Pygame.
+- 🎮 Creando una serie de "Aprendiendo Python con Pac-Man" para documentar mi proceso de aprendizaje.
+- 🌐 También he desarrollado páginas web utilizando HTML, CSS y JavaScript.
+- 🥽 He trabajado en proyectos de realidad virtual y experiencias 360° utilizando A-Frame.
+- ☕ También tengo conocimientos de Java.
+- 🚀 Me gusta aprender creando proyectos y mejorar constantemente mis habilidades.
 <br>
 
 ## Proyectos *bombitas*
