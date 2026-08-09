@@ -9,14 +9,11 @@
 
 ## 👨‍💻 Sobre mí
 
-- 🎓 Estudiante de Ingeniería de Sistemas en la Universidad Salesiana de Bolivia. 
-- 💻 Me interesa el desarrollo de software y aprender nuevas tecnologías.
-- 🐍 Actualmente estoy trabajando con Python y desarrollé proyectos con Pygame.
-- 🎮 Creando una serie de "Aprendiendo Python con Pac-Man" para documentar mi proceso de aprendizaje.
-- 🌐 También he desarrollado páginas web utilizando HTML, CSS y JavaScript.
-- 🥽 He trabajado en proyectos de realidad virtual y experiencias 360° utilizando A-Frame.
-- ☕ También tengo conocimientos de Java.
-- 🚀 Me gusta aprender creando proyectos y mejorar constantemente mis habilidades.
+- 🎓 Estudiante de Ingeniería de Sistemas en la Universidad Salesiana de Bolivia.
+- 🐍 Desarrollando proyectos con Python y Pygame.
+- 🌐 Experiencia creando páginas web con HTML, CSS y JavaScript.
+- 🥽 Experiencia desarrollando experiencias VR 360° con A-Frame.
+- ☕ Conocimientos de Java.
 <br>
 
 ## Proyectos *bombitas*
