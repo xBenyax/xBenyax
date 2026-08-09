@@ -3,10 +3,10 @@
 </div>
 <img src="./banner.png" width="100%">
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
-[![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
-[![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
-![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
+[![YouTube](https://img.shields.io/badge/YouTube-Canal-red?style=social&logo=youtube)](https://www.youtube.com/@xBenyax2208)
+[![TikTok](https://img.shields.io/badge/TikTok-Perfil-black?style=social&logo=tiktok)](https://www.tiktok.com/@benyix123?_r=1&_t=ZS-98iQ5LiU8Qi)
+[![GitHub](https://img.shields.io/github/followers/xBenyax?style=social)](https://github.com/xBenyax)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/alvaro-huancagb)
 
 ## Sobre mi
 
