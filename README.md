@@ -16,7 +16,7 @@
 - ☕ Conocimientos de Java.
 <br>
 
-## Proyectos *bombitas*
+## 🚀 Proyectos *Destacados*
 <div align="center">
 
 <table> 
