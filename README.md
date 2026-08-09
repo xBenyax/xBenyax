@@ -24,7 +24,7 @@
     <h3 align="center">🎮 Pac-Man — Aprendiendo Python</h3>
     <a href="LINK_REPOSITORIO_PACMAN" target="_blank">
       <img
-        src="LINK_IMAGEN_PACMAN"
+        src="./Pac_man.jpg"
         width="700"
         alt="Pac-Man en Python"
       >
