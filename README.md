@@ -75,7 +75,7 @@
 
 ## 🛠️ Tecnologías y herramientas
 
-### 💻 Lenguajes
+### - 💻 Lenguajes
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
@@ -84,14 +84,14 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </p>
 
-### 🎮 Frameworks y librerías
+### - 🎮 Frameworks y librerías
 <p align="center">
   <img src="https://img.shields.io/badge/Pygame-333333?style=for-the-badge">
   <img src="https://img.shields.io/badge/A--Frame-EF2D5E?style=for-the-badge">
   <img src="https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </p>
 
-### 🔧 Herramientas
+### - 🔧 Herramientas
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
