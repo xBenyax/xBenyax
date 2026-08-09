@@ -56,7 +56,7 @@
 <td width="50%">
 <h3 align="center">🥽 Cotapata VR 360°</h3>
 <div align="center">
-<a href="LINK_REPOSITORIO_COTAPATA" target="_blank"> <img src="LINK_IMAGEN_COTAPATA" width="400" alt="Cotapata VR 360" > </a>
+<a href="LINK_REPOSITORIO_COTAPATA" target="_blank"> <img src="./Cotapata.png" width="400" alt="Cotapata VR 360" > </a>
 <p> <a href="LINK_REPOSITORIO_COTAPATA" target="_blank"> <img src="https://img.shields.io/badge/CÓDIGO-6E4C9F?style=for-the-badge&logo=github&logoColor=white"> </a> </p>
 <p> Experiencia de <strong>realidad virtual 360°</strong> desarrollada con <strong>A-Frame</strong>, enfocada en la exploración virtual del Parque Nacional Cotapata. </p>
 </div>
@@ -64,7 +64,7 @@
 <td width="50%">
 <h3 align="center">🌐 Página Web de Restaurantes</h3>
 <div align="center">
-<a href="LINK_REPOSITORIO_RESTAURANTES" target="_blank"> <img src="LINK_IMAGEN_RESTAURANTES" width="400" alt="Página web de restaurantes" > </a>
+<a href="LINK_REPOSITORIO_RESTAURANTES" target="_blank"> <img src="./Restaurant.png" width="400" alt="Página web de restaurantes" > </a>
 <p> <a href="LINK_REPOSITORIO_RESTAURANTES" target="_blank"> <img src="https://img.shields.io/badge/CÓDIGO-1572B6?style=for-the-badge&logo=github&logoColor=white"> </a> <a href="LINK_PAGINA_RESTAURANTES" target="_blank"> <img src="https://img.shields.io/badge/DEMO-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=white"> </a> </p>
 <p> Página web desarrollada como proyecto académico para presentar información y opciones de <strong>restaurantes</strong>, utilizando tecnologías de desarrollo web. </p>
 </div>
