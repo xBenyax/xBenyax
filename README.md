@@ -3,10 +3,9 @@
 </div>
 <img src="./banner.png" width="100%">
 
-[![YouTube](https://img.shields.io/badge/YouTube-Canal-red?style=social&logo=youtube)](https://www.youtube.com/@xBenyax2208)
-[![TikTok](https://img.shields.io/badge/TikTok-Perfil-black?style=social&logo=tiktok)](https://www.tiktok.com/@benyix123?_r=1&_t=ZS-98iQ5LiU8Qi)
-[![GitHub](https://img.shields.io/github/followers/xBenyax?style=social)](https://github.com/xBenyax)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/alvaro-huancagb)
+[![YouTube](https://img.shields.io/badge/YouTube-Canal-red?style=social&logo=youtube)](https://www.youtube.com/@xBenyax2208)
+[![TikTok](https://img.shields.io/badge/TikTok-Perfil-black?style=social&logo=tiktok)](https://www.tiktok.com/@benyix123)
 
 ## Sobre mi
 
