@@ -20,39 +20,35 @@
 <div align="center">
 
 <table> 
-  <tr> <td width="100%" align="center">
-    <h3 align="center">🎮 Pac-Man — Aprendiendo Python</h3>
-    <a href="LINK_REPOSITORIO_PACMAN" target="_blank">
-      <img
-        src="./Pac_man.jpg"
-        width="700"
-        alt="Pac-Man en Python"
-      >
-    </a>
-    <p align="center">
-      <a href="LINK_REPOSITORIO_PACMAN" target="_blank">
-        <img src="https://img.shields.io/badge/CÓDIGO-3776AB?style=for-the-badge&logo=github&logoColor=white">
-      </a>
-      <a href="LINK_TIKTOK" target="_blank">
-        <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
-      </a>
-      <a href="LINK_YOUTUBE" target="_blank">
-        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-      </a>
-    </p>
-    <p align="center">
-      Mi primer videojuego desarrollado en Python. Actualmente estoy
-      <strong>optimizándolo y mejorándolo</strong> mientras documento
-      el proceso en la serie <strong>"Aprendiendo Python con Pac-Man"</strong>.
-    </p>
-
-  </td>
+<tr> <td width="100%" align="center">
+<h3 align="center">🎮 Pac-Man — Aprendiendo Python</h3>
+<a href="LINK_REPOSITORIO_PACMAN" target="_blank">
+<img
+  src="./Pac_man.jpg"
+  width="700"
+  alt="Pac-Man en Python"
+>
+</a>
+<p align="center">
+<a href="LINK_REPOSITORIO_PACMAN" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-3776AB?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<a href="LINK_TIKTOK" target="_blank">
+<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
+</a>
+<a href="LINK_YOUTUBE" target="_blank">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+</a>
+</p>
+<p align="center">
+  Mi primer videojuego desarrollado en Python. Actualmente estoy
+  <strong>optimizándolo y mejorándolo</strong> mientras documento
+  el proceso en la serie <strong>"Aprendiendo Python con Pac-Man"</strong>.
+</p>
+</td>
 </tr>
-
 </table>
-
 </div>
-
 <br>
 
 <table> 
